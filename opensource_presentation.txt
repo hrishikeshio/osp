@@ -1,27 +1,41 @@
-                                                                                 
-                                                                                 
+   ____                         _____                               
+  / __ \                       / ____|                              
+ | |  | | _ __    ___  _ __   | (___    ___   _   _  _ __  ___  ___ 
+ | |  | || '_ \  / _ \| '_ \   \___ \  / _ \ | | | || '__|/ __|/ _ \
+ | |__| || |_) ||  __/| | | |  ____) || (_) || |_| || |  | (__|  __/
+  \____/ | .__/  \___||_| |_| |_____/  \___/  \__,_||_|   \___|\___|
+         | |                                                        
+         |_|                                  
+                             __             
+                            / _|          
+                           | |_ ___  _ __ 
+                           |  _/ _ \| '__|
+                           | || (_) | |   
+                           |_| \___/|_|   
+                
+                                                                                                                                      
+888888b.                     d8b                                     
+888  "88b                    Y8P                                     
+888  .88P                                                            
+8888888K.  888  888 .d8888b  888 88888b.   .d88b.  .d8888b  .d8888b  
+888  "Y88b 888  888 88K      888 888 "88b d8P  Y8b 88K      88K      
+888    888 888  888 "Y8888b. 888 888  888 88888888 "Y8888b. "Y8888b. 
+888   d88P Y88b 888      X88 888 888  888 Y8b.          X88      X88 
+8888888P"   "Y88888  88888P' 888 888  888  "Y8888   88888P'  88888P' 
+                             
 
-  sSSs_sSSs     .S_sSSs      sSSs   .S_sSSs            sSSs    sSSs_sSSs     .S       S.    .S_sSSs      sSSs    sSSs  
- d%%SP~YS%%b   .SS~YS%%b    d%%SP  .SS~YS%%b          d%%SP   d%%SP~YS%%b   .SS       SS.  .SS~YS%%b    d%%SP   d%%SP  
-d%S'     `S%b  S%S   `S%b  d%S'    S%S   `S%b        d%S'    d%S'     `S%b  S%S       S%S  S%S   `S%b  d%S'    d%S'    
-S%S       S%S  S%S    S%S  S%S     S%S    S%S        S%|     S%S       S%S  S%S       S%S  S%S    S%S  S%S     S%S     
-S&S       S&S  S%S    d*S  S&S     S%S    S&S        S&S     S&S       S&S  S&S       S&S  S%S    d*S  S&S     S&S     
-S&S       S&S  S&S   .S*S  S&S_Ss  S&S    S&S        Y&Ss    S&S       S&S  S&S       S&S  S&S   .S*S  S&S     S&S_Ss  
-S&S       S&S  S&S_sdSSS   S&S~SP  S&S    S&S        `S&&S   S&S       S&S  S&S       S&S  S&S_sdSSS   S&S     S&S~SP  
-S&S       S&S  S&S~YSSY    S&S     S&S    S&S          `S*S  S&S       S&S  S&S       S&S  S&S~YSY%b   S&S     S&S     
-S*b       d*S  S*S         S*b     S*S    S*S           l*S  S*b       d*S  S*b       d*S  S*S   `S%b  S*b     S*b     
-S*S.     .S*S  S*S         S*S.    S*S    S*S          .S*P  S*S.     .S*S  S*S.     .S*S  S*S    S%S  S*S.    S*S.    
- SSSbs_sdSSS   S*S          SSSbs  S*S    S*S        sSS*S    SSSbs_sdSSS    SSSbs_sdSSS   S*S    S&S   SSSbs   SSSbs  
-  YSSP~YSSY    S*S           YSSP  S*S    SSS        YSS'      YSSP~YSSY      YSSP~YSSY    S*S    SSS    YSSP    YSSP  
-               SP                  SP                                                      SP                          
-               Y                   Y                                                       Y                           
-                  
 
+
+                                                                  
                   "It is not necessary to change. Survival is not mandatory." -W. Edwards Deming
 
 
 
-.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:.        .--.
+
+
+.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:.        
+ 
+        .--.
        /    \
       ##(a)-(a)       _
       (   '._)     |_|
@@ -60,21 +74,20 @@ S*S.     .S*S  S*S         S*S.    S*S    S*S          .S*P  S*S.     .S*S  S*S.
 
 # What is open source?
 
-A program is free software if the program's users have the four essential freedoms: 
-*The freedom to run the program, for any purpose (freedom 0).
-*The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this. 
-*The freedom to redistribute copies so you can help your neighbor (freedom 2). 
-*The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+Computer software for which the source code is freely available.
 
 
 
+# Who's using it?
 
-# Who uses it?
 *Google
 *Facebook
 *Twitter
 *ADOBE
 *Square
+*And hundreds others..
+
+
 
 Fact or Fiction? Top 8 Linux Myths Debunked
 
@@ -93,6 +106,7 @@ Fact or Fiction? Top 8 Linux Myths Debunked
 7. "It's Not Reliable"
 
 8. "Its TCO Is Higher"
+
 
 Why open source is good for business?
 
@@ -116,5 +130,20 @@ Why open source is good for business?
 
 10. Try before you buy
 
+11. Propritary software is Bloatware
 
-Tony Blair who said: “The theme of the annual meeting, ‘The Power of Collaborative Innovation’ is the answer to all the big global challenges we are facing.
+Ubuntu 12.10       Windows 8
+700 MB              4.4 GB!        6x bigger!
+
+
+Libre Office 4     MS Office 2013
+170 MB               1.7 GB!      10x bigger!
+
+Why?
+
+
+Tony Blair said: “'The Power of Collaborative Innovation’ is the answer to all the big global challenges we are facing.
+
+Business Case
+
+Thank you
