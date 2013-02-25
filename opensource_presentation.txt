@@ -1,0 +1,120 @@
+                                                                                 
+                                                                                 
+
+  sSSs_sSSs     .S_sSSs      sSSs   .S_sSSs            sSSs    sSSs_sSSs     .S       S.    .S_sSSs      sSSs    sSSs  
+ d%%SP~YS%%b   .SS~YS%%b    d%%SP  .SS~YS%%b          d%%SP   d%%SP~YS%%b   .SS       SS.  .SS~YS%%b    d%%SP   d%%SP  
+d%S'     `S%b  S%S   `S%b  d%S'    S%S   `S%b        d%S'    d%S'     `S%b  S%S       S%S  S%S   `S%b  d%S'    d%S'    
+S%S       S%S  S%S    S%S  S%S     S%S    S%S        S%|     S%S       S%S  S%S       S%S  S%S    S%S  S%S     S%S     
+S&S       S&S  S%S    d*S  S&S     S%S    S&S        S&S     S&S       S&S  S&S       S&S  S%S    d*S  S&S     S&S     
+S&S       S&S  S&S   .S*S  S&S_Ss  S&S    S&S        Y&Ss    S&S       S&S  S&S       S&S  S&S   .S*S  S&S     S&S_Ss  
+S&S       S&S  S&S_sdSSS   S&S~SP  S&S    S&S        `S&&S   S&S       S&S  S&S       S&S  S&S_sdSSS   S&S     S&S~SP  
+S&S       S&S  S&S~YSSY    S&S     S&S    S&S          `S*S  S&S       S&S  S&S       S&S  S&S~YSY%b   S&S     S&S     
+S*b       d*S  S*S         S*b     S*S    S*S           l*S  S*b       d*S  S*b       d*S  S*S   `S%b  S*b     S*b     
+S*S.     .S*S  S*S         S*S.    S*S    S*S          .S*P  S*S.     .S*S  S*S.     .S*S  S*S    S%S  S*S.    S*S.    
+ SSSbs_sdSSS   S*S          SSSbs  S*S    S*S        sSS*S    SSSbs_sdSSS    SSSbs_sdSSS   S*S    S&S   SSSbs   SSSbs  
+  YSSP~YSSY    S*S           YSSP  S*S    SSS        YSS'      YSSP~YSSY      YSSP~YSSY    S*S    SSS    YSSP    YSSP  
+               SP                  SP                                                      SP                          
+               Y                   Y                                                       Y                           
+                  
+
+                  "It is not necessary to change. Survival is not mandatory." -W. Edwards Deming
+
+
+
+.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:.        .--.
+       /    \
+      ##(a)-(a)       _
+      (   '._)     |_|
+       |'-- |      | | 
+     _.\___/_   ___|_|___
+   ."\> \Y/|<'.  '._.-'
+  /  \ \_\/ /  '-' /
+  | --'\_/|/ |   _/
+  |___.-' |  |`'`
+    |     |  |
+    |    / './
+   /__./` | |
+      \   | |
+       \  | |
+       ;  | |
+       /  | |
+      |___\_.\_
+      `-"--'---'  	
+
+.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:._.:*~*:.
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Who am I?
+
+
+# What is open source?
+
+A program is free software if the program's users have the four essential freedoms: 
+*The freedom to run the program, for any purpose (freedom 0).
+*The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this. 
+*The freedom to redistribute copies so you can help your neighbor (freedom 2). 
+*The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+
+
+
+# Who uses it?
+*Google
+*Facebook
+*Twitter
+*ADOBE
+*Square
+
+Fact or Fiction? Top 8 Linux Myths Debunked
+
+1. "It's Hard to Install"
+
+2. "It's Just for Experts"
+
+3. "It's Free, So It Must Be Pirated"
+
+4. "There's No Support"
+
+5. "It's Not Compatible"
+
+6. "It's Less Secure"
+
+7. "It's Not Reliable"
+
+8. "Its TCO Is Higher"
+
+Why open source is good for business?
+
+1. Security
+
+2. Quality
+
+3. Customizability
+
+4. Freedom
+
+5. Flexibility
+
+6. Interoperability
+
+7. Auditability
+
+8. Support Options
+
+9. Cost
+
+10. Try before you buy
+
+
+Tony Blair who said: “The theme of the annual meeting, ‘The Power of Collaborative Innovation’ is the answer to all the big global challenges we are facing.
