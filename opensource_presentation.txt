@@ -89,24 +89,6 @@ Computer software for which the source code is freely available.
 
 
 
-Fact or Fiction? Top 8 Linux Myths Debunked
-
-1. "It's Hard to Install"
-
-2. "It's Just for Experts"
-
-3. "It's Free, So It Must Be Pirated"
-
-4. "There's No Support"
-
-5. "It's Not Compatible"
-
-6. "It's Less Secure"
-
-7. "It's Not Reliable"
-
-8. "Its TCO Is Higher"
-
 
 Why open source is good for business?
 
@@ -141,9 +123,53 @@ Libre Office 4     MS Office 2013
 
 Why?
 
+12. Longer Lifespan 
+
+Microsoft Visual Studio
+
+Visual Studio95   VS97  VS6 VS2002 VS2003 VS2005 VS2008 VS2010 VS2012
+        |----------|
+                   |-------------------|
+                          |-----------------| 
+                              |-----------------|
+                                      |--------------|
+                                              |-------------|
+                                                    |--------------------|
+
+Python
+
+Python1        Python2         Python3
+1994            2000            2008
+|-----------------|---------------------------------------------------------------
+                                  |-----------------------------------------------
+
+What happens when an open source language is REALLY old?
+
+it gets FORKED!
+
+=======================================================================================
 
 Tony Blair said: “'The Power of Collaborative Innovation’ is the answer to all the big global challenges we are facing.
 
 Business Case
+
+
+Fact or Fiction? Top 8 Linux Myths Debunked
+
+1. "It's Hard to Install"
+
+2. "It's Just for Experts"
+
+3. "It's Free, So It Must Be Pirated"
+
+4. "There's No Support"
+
+5. "It's Not Compatible"
+
+6. "It's Less Secure"
+
+7. "It's Not Reliable"
+
+8. "Its TCO Is Higher"
 
 Thank you
