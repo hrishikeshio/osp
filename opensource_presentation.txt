@@ -27,7 +27,7 @@
 
 
                                                                   
-                  "It is not necessary to change. Survival is not mandatory." -W. Edwards Deming
+  "It is not necessary to change. Survival is not mandatory." -W. Edwards Deming
 
 
 
@@ -91,6 +91,7 @@ Computer software for which the source code is freely available.
 
 
 Why open source is good for business?
+-------------------------------------
 
 1. Security
 
@@ -119,7 +120,7 @@ Ubuntu 12.10       Windows 8
 
 
 Libre Office 4     MS Office 2013
-170 MB               1.7 GB!      10x bigger!
+170 MB              1.7 GB!        10x bigger!
 
 Why?
 
@@ -128,7 +129,7 @@ Why?
 Microsoft Visual Studio
 
 Visual Studio95   VS97  VS6 VS2002 VS2003 VS2005 VS2008 VS2010 VS2012
-        |----------|
+        |----------------|
                    |-------------------|
                           |-----------------| 
                               |-----------------|
@@ -138,38 +139,76 @@ Visual Studio95   VS97  VS6 VS2002 VS2003 VS2005 VS2008 VS2010 VS2012
 
 Python
 
-Python1        Python2         Python3
-1994            2000            2008
-|-----------------|---------------------------------------------------------------
-                                  |-----------------------------------------------
+Python1                Python2                    Python3
+1994                    2000                       2008
+|------------------------|-----------------------------------------------
+                                                     |-------------------
 
-What happens when an open source language is REALLY old?
 
-it gets FORKED!
+What happens when an open source language becomes REALLY old?
 
-=======================================================================================
+It gets FORKED!
+
+13. Its AWESOME!!
+
+
+
+
+
+
+Why software producers should open source their software?
+---------------------------------------------------------
+
+The Payoff for Software Producers
+---------------------------------
+1.Advantage: Development Speed
+
+2.Advantage: Lower Overhead
+
+The Payoff for Software Merchants
+---------------------------------
+1.Advantage: Closeness to the Customer
+
+2.Advantage: Broader Market
+
+============================================================
+
+
+
+Business Case
+=============
+
+
+
+Not just software!
+==================
 
 Tony Blair said: “'The Power of Collaborative Innovation’ is the answer to all the big global challenges we are facing.
 
-Business Case
 
+Fact or Fiction? Top 9 Linux Myths Debunked
+===========================================
+1. "It's Just for Experts"
 
-Fact or Fiction? Top 8 Linux Myths Debunked
+2. "It's Free, So It Must Be Pirated"
 
-1. "It's Hard to Install"
+3. "There's No Support"
 
-2. "It's Just for Experts"
+4. "It's Not Compatible"
 
-3. "It's Free, So It Must Be Pirated"
+5. "It's Less Secure"
 
-4. "There's No Support"
+6. "It's Not Reliable"
 
-5. "It's Not Compatible"
+7. "Its TCO Is Higher"
 
-6. "It's Less Secure"
+8. "It doesn't run windows software!"
 
-7. "It's Not Reliable"
+9. "It's Hard to Install"
 
-8. "Its TCO Is Higher"
+Fork me!
+
+https://github.com/hrishikeshio/osp
+
 
 Thank you
