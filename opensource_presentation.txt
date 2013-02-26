@@ -23,9 +23,6 @@
 888   d88P Y88b 888      X88 888 888  888 Y8b.          X88      X88 
 8888888P"   "Y88888  88888P' 888 888  888  "Y8888   88888P'  88888P' 
                              
-
-
-
                                                                   
   "It is not necessary to change. Survival is not mandatory." -W. Edwards Deming
 
@@ -149,13 +146,13 @@ What happens when an open source language becomes REALLY old?
 
 It gets FORKED!
 
-13. Its AWESOME!!
+13. It's AWESOME!!
 
 
 
 
 
-
+=========================================================
 Why software producers should open source their software?
 ---------------------------------------------------------
 
@@ -185,7 +182,7 @@ Not just software!
 
 Tony Blair said: “'The Power of Collaborative Innovation’ is the answer to all the big global challenges we are facing.
 
-
+===========================================
 Fact or Fiction? Top 9 Linux Myths Debunked
 ===========================================
 1. "It's Just for Experts"
@@ -205,6 +202,8 @@ Fact or Fiction? Top 9 Linux Myths Debunked
 8. "It doesn't run windows software!"
 
 9. "It's Hard to Install"
+
+==============================
 
 Fork me!
 
