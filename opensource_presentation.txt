@@ -211,3 +211,38 @@ https://github.com/hrishikeshio/osp
 
 
 Thank you
+
+
+
+
+
+Links:
+Me:
+https://twitter.com/hrishikeshio
+https://github.com/hrishikeshio
+http://www.kaggle.com/users/37276/hrishikesh-huilgolkar
+http://www.blogicious.com/
+
+Projects:
+https://developers.google.com/open-source/projects
+https://github.com/facebook
+https://developers.facebook.com/opensource/
+https://github.com/twitter
+http://twitter.github.com/bootstrap/
+https://github.com/square
+https://squareup.com/
+http://square.github.com/cubism/
+
+Business Case:
+http://news.cnet.com/2008-1082_3-5065859.html?tag=lh
+
+Hardware:
+http://www.arduino.cc/
+http://www.raspberrypi.org/faqs
+http://en.wikipedia.org/wiki/Open_source_cola
+
+Misc:
+http://www.youtube.com/watch?v=PgGbZfR6Vec
+http://www.pcworld.com/article/209891/10_reasons_open_source_is_good_for_business.html
+http://www.pcworld.com/article/207479/linux_on_the_rise_for_business.html
+http://www.pcworld.com/article/205147/fact_or_fiction_top_8_linux_myths_debunked.html
